@@ -1,0 +1,51 @@
+[
+  {
+    "customerName": "Abhilash",
+    "customerId": "1234A",
+    "Address": "500 Central Park Drive",
+    "City": "Oklahoma City",
+    "State": "Oklahoma",
+    "ZipCode": "73105",
+    "Status": "Active",
+    "transactions": [
+      {
+        "amount": 105,
+        "month": "june"
+      },
+      {
+        "amount": 169,
+        "month": "may"
+      },
+      {
+        "amount": 259,
+        "month": "april"
+      }
+    ]
+  },
+  {
+    "customerName": "Abhi",
+    "customerId": "1234B",
+    "Address": "517 McArthur Park Drive",
+    "City": "Edmond",
+    "State": "Oklahoma",
+    "ZipCode": "73104",
+    "Status": "Active",
+    "EndDate": null,
+    "ProvivedId": "SepectrumOk1235",
+    "rewardsProgramEligibility": true,
+    "transactions": [
+      {
+        "amount": 151,
+        "month": "june"
+      },
+      {
+        "amount": 215,
+        "month": "may"
+      },
+      {
+        "amount": 300,
+        "month": "april"
+      }
+    ]
+  }
+]
